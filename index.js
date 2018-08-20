@@ -19,4 +19,4 @@ happyHolidayTo(`Independence Day`, `you`)
 function holidayCountdown(days, holiday) {
   console.log(`It's ${days} until ${holiday}!`)
 }
-holidayCountdown(20, "Mothers Day")
+holidayCountdown(`20`, `Mother\'s Day`)
